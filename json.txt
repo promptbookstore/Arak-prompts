@@ -1,26 +1,33 @@
 {
   "BUSINESS": [
     "Create a business plan for a new startup",
+
     "Write a mission statement for your company"
   ],
   "Marketing Automation": [
     "Generate email marketing templates for product launch",
+
     "Create social media automation strategy"
   ],
   "Image Generation": [
     "Design a futuristic logo for a tech startup",
+
     "Create a promotional banner for Instagram"
   ],
   "Content Creation": [
     "Write 500 words blog on productivity tips",
+
     "Create a YouTube video script on AI tools"
   ],
   "Skill Development": [
     "Learn basics of Python in 7 days",
+
     "Develop public speaking skills exercises"
   ],
   "Productivity Boost": [
     "Make a daily planner template",
+
     "List top productivity apps for remote work"
   ]
 }
+
